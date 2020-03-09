@@ -3,7 +3,7 @@ import { h }from 'preact'
  import SEO  from '../components/SEO'
 export default () =>  (
 <SEO title="home" description="Home page">
-<Title>Preact + NexttJS + Styled-Components</Title>
+<Title>Preact + NextJS + Styled-Components</Title>
 </SEO>
 )
      
