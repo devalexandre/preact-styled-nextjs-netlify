@@ -15,7 +15,7 @@
   "dependencies": {
     "eslint": "^6.0.1",
     "eslint-config-preact": "^1.1.0",
-    "next": "^9.2.3-canary.21",
+    "next": "^11.1.0",
     "next-offline": "^5.0.0",
     "next-seo": "^4.4.0",
     "preact": "^10.2.1",
